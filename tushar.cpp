@@ -55,4 +55,5 @@ int main()
         cout << entry.first << "\t" << entry.second.type << "\t" << entry.second.size << "\t" << entry.second.address << endl;
     }
     //new change added;
+    //okay
 }
