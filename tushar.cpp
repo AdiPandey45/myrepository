@@ -5,7 +5,7 @@
 using namespace std;
 struct IDinfo
 {
-    string type; 
+    string type;  
     int size;
     int address;  
     int scope;
