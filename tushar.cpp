@@ -13,7 +13,7 @@ int main()
 {
     string fname;
     cout << "give the name of the C input file: ";
-    getline(cin, fname);
+    getline(cin, fname); 
     ifstream file (fname);
     if (!file.is_open())
     {
