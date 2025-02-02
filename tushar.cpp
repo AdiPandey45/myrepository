@@ -7,8 +7,7 @@ struct IDinfo
 {
     string type;    
     int size; 
-    int address;   
-    int scope; 
+    int address;    
 };
 int main()
 {
