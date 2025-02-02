@@ -6,7 +6,7 @@ using namespace std;
 struct IDinfo
 {
     string type;   
-    int size;
+    int size; 
     int address;   
     int scope; 
 };
