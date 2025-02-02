@@ -9,7 +9,7 @@ struct IDinfo
     int size; 
     int address;     
 };
-int main() 
+int main()  
 {
     string fname;
     cout << "give the name of the C input file: ";
