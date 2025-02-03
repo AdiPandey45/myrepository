@@ -11,7 +11,7 @@ struct IDinfo
 };
 int main()   
 {
-    string fname;
+    string fname; 
     cout << "give the name of the C input file: ";
     getline(cin, fname); 
     ifstream file (fname);
