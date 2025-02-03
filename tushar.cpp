@@ -10,7 +10,7 @@ struct IDinfo
     int address;       
 };
 int main()   
-{
+{ 
     string fname; 
     cout << "give the name of the C input file: ";
     getline(cin, fname); 
